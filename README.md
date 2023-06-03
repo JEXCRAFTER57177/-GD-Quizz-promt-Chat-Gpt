@@ -2,7 +2,9 @@
 GD Prompt Paste Bin; https://pastebin.com/WrNHkH8z        (Execute prompt as Chat Gpt prompt) if incounter problem use direct link from 'paste bin' 
 
 Execute code, and enjoy
-User Commands after Chat to Gpt use command "/menu"
+for User Commands after prompt executed use "/menu" to show all available commands for interaction 
+
+------- Actual Executable Prompt>>
 
 
 
