@@ -1,6 +1,8 @@
 # -GD-Quizz-promt-Chat-Gpt
 GD Prompt Paste Bin; https://pastebin.com/WrNHkH8z        (Execute prompt as Chat Gpt prompt) if incounter problem use direct link from 'paste bin' 
 
+Only used with official gpt; https://chat.openai.com/
+
 Execute code, and enjoy
 for User Commands after prompt executed use "/menu" to show all available commands for interaction 
 
