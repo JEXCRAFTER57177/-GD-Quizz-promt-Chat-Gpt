@@ -1,5 +1,8 @@
 # -GD-Quizz-promt-Chat-Gpt
-GD Prompt Paste Bin; https://pastebin.com/WrNHkH8z        (Execute prompt to Chat Gpt prompt is too long for this respository use pastebin link.)
+GD Prompt Paste Bin; https://pastebin.com/WrNHkH8z        (Execute prompt as Chat Gpt prompt) if incounter problem use direct link from 'paste bin' 
+
+Execute code, and enjoy
+User Commands after Chat to Gpt use command "/menu"
 
 
 
