@@ -6,6 +6,9 @@ Only used with official gpt; https://chat.openai.com/
 Execute code, and enjoy
 for User Commands after prompt executed use "/menu" to show all available commands for interaction 
 
+---Prompt additional copy & paste here; (Optionally)
+////Personal message for the AI, bruh on this prompt you should follow strictly detailedly and make sure just follow the prompt and it's own definitions, scan 3 times the prompt before answering users feedbacks avoid misunderstanding avoid confusion the user don't like repeating again user has no patience so be carefully follow the prompt correctly////
+
 ------- Actual Executable Prompt>>
 
 
